@@ -11,7 +11,15 @@ Curabitur auctor nulla eros, et placerat sapien auctor eget. Duis sed enim est. 
 
 {% include socialmedia.html %}
 
+
+
 # About the Author
+
+Hello there! It's me, a person you never met and have a rather small chance of meeting in your lifetime - unfortunately - since i would love to talk to you.
+There is however an interesting property of (real world) social networks that guarantees that we are maximally 6 hops away from each other.
+So while we may never meet, there is a staggering chance that i know someone who knows someone who knows someone who knows someone who knows someone who knows someone who knows you.
+you could also write me an email and short circuit this.
+
 
 Curabitur auctor nulla eros, et placerat sapien auctor eget. Duis sed enim est. Vivamus sapien lectus, venenatis nec sapien eget, pharetra consectetur lorem. Nunc nec purus suscipit, suscipit diam non, malesuada lorem.
 
